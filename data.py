@@ -26,14 +26,13 @@ Hey {}
 
 Welcome to {}
 
-If you don't trust this bot, 
-1) stop reading this message
-2) delete this chat
+Welcome to Wick Pyrogram String Session Generator.
 
-Still reading?
-You can use me to generate pyrogram (even version 2) and telethon string session. Use below buttons to learn more !
+You can procees with bot's api values if you want , else you can proceed with your api values
 
-By @StarkBots
+Bot has over 100+ API ID and HASH Saved , You can use them. 
+
+Press Button to start generating session!
     """
 
     HELP = """

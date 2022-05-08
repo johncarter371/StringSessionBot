@@ -1,4 +1,4 @@
-# Pyrogram and Telethon String Session Bot [@WickStringSessionRobot](https://t.me/WickStringSession)
+# Pyrogram and Telethon String Session Bot [@WickStringSessionRobot](https://t.me/WickStringSessionRobot)
 
 > A star ⭐ from you means a lot to us!
 
